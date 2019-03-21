@@ -1,2 +1,2 @@
-# -Events-Using-Delegates
+# Events-Using-Delegates
 Advanced C#
